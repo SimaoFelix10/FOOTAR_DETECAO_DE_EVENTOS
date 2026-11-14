@@ -1,1 +1,1 @@
-# FootAR_ComputerVision
+# FootAR_Events_Detection
