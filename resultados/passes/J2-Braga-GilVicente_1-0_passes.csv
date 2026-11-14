@@ -1,0 +1,7 @@
+t_passe,t_rececao,voo_s,passador,eq_passador,recetor,eq_recetor,resultado
+1.24,4.48,3.24,3.0,1.0,2.0,1.0,indeterminado (bola perdida)
+4.72,6.04,1.32,2.0,1.0,229.0,0.0,falhado (interceção)
+6.64,7.44,0.8,229.0,0.0,1.0,1.0,falhado (interceção)
+7.64,9.12,1.48,1.0,1.0,309.0,1.0,certo
+9.2,9.24,0.04,309.0,1.0,773.0,0.0,falhado (interceção)
+9.36,,,773.0,0.0,,,indeterminado (bola não reaparece)

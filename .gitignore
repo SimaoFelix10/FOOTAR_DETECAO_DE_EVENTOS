@@ -1,0 +1,13 @@
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+*.pth
+*.onnx
+*.h5
+dataset/
+runs/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
