@@ -1,0 +1,4 @@
+t_passe,t_rececao,voo_s,passador,eq_passador,recetor,eq_recetor,distancia_alt,pressao,resultado,confianca,regra,frame_passe,frame_rececao
+2.12,3.28,1.16,12,1,11.0,1.0,4.6,1,certo,alta,receção observada,106,164.0
+3.52,6.92,3.4,11,1,270.0,1.0,6.1,1,certo,baixa,bola perdida 3.4 s: equipa mais próxima ao reaparecer,176,346.0
+7.48,,,270,1,,,,0,indeterminado,-,bola não reaparece e sem direção clara,374,

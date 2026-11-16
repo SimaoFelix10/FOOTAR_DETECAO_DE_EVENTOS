@@ -1,2 +1,2 @@
-dono,equipa,t_ini,t_fim,n
-15,0,4.2,4.4,6
+dono,equipa,t_ini,t_fim,frame_ini,frame_fim,n
+15,0,4.2,4.4,210,220,6
